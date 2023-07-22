@@ -1,0 +1,24 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-pur {
+    background: purple;
+    height: fit-content;
+    width: fit-content;
+    
+}
+
+.mg-auto {
+    margin: auto;
+}
+
+
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
